@@ -4,7 +4,7 @@ Tionce_voices is a browser based testing system designed to assess a participant
 
 # Overview
 <img src="images/welcome_screen.jpg" width="auto" height="auto"> 
-The session begins by presenting a welcome screen and prompting the participant for their assigned number, after which a sequence of instructions for the current test block is displayed. A short practice is given, and then the real test block begins. There are multiple different test blocks, and they are randomized for each session. Each checks a participant's ability to respond to conflicting stimuli using different combinations of opposite audio, visual, and textual cues. When the participant completes all of the test blocks, their results are recorded and the test is finished.
+The session begins by presenting a welcome screen and prompting the participant for their assigned number, after which a sequence of instructions for the current test block is displayed. A short practice is given, and then the real test block begins. There are multiple different test blocks, and the order they're delivered in is randomized for each session. Each checks a participant's ability to respond to conflicting stimuli using different combinations of opposite audio, visual, and textual cues. When the participant completes all of the test blocks, their results are recorded and the test is finished.
 
 # Backend
 <img src="images/server_running.jpg" width="auto" height="auto">
